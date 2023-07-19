@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Olaoluwa905
 - 👀 I’m interested in helping people with the knowledge I have
-- 🌱 I’m currently learning Microsoft word
 - 💞️ I’m looking to collaborate on Anything interesting
 - 📫 How to reach me Call +2348182207685
 
