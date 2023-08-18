@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Olaoluwa905
-- 👀 I’m interested in helping people with the knowledge I have
-- 💞️ I’m looking to collaborate on Anything interesting
+- 👀 I’m interested in Html, CSS, Javascript, REACT and Java
+- 💞️ I’m looking to collaborate on Anything interesting like website or application 
 - 📫 How to reach me Call +2348182207685
 
 <!---
