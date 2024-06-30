@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Olaoluwa905
-- 👀 I’m interested in Html, CSS, Javascript, REACT and Java
+- 👀 I’m into Web Design, Frontend web development and cybersecurity
 - 💞️ I’m looking to collaborate on Anything interesting like website or application 
 
 <!---
